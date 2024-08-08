@@ -2,6 +2,6 @@
 // Buffer.includes() Method 
 	
 // Creating a buffer 
-const buffer = new Buffer('Geek One'); 
+const buffer = new Buffer('SoftwarEngineer'); 
 
-console.log(buffer.includes('Geek')); 
+console.log(buffer.includes('E')); 
