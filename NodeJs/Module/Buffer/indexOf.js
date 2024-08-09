@@ -3,8 +3,8 @@
 	
 // Creating a buffer 
 const buffer = Buffer.from( 
-	'GeeksforGeeks: A computer science portal'); 
+	'Software is not just coding.'); 
 
-const output = buffer.indexOf('computer'); 
+const output = buffer.indexOf('coding'); 
 // Returns the starting index value of the string we are looking for in the array.
 console.log(output); 
